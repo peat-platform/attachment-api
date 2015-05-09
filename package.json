@@ -28,7 +28,7 @@
     "moment": "",
     "cloudlet-utils": "peat-platform/cloudlet-utils",
     "peat-logger": "peat-platform/peat-logger",
-    "openi_rrd": "peat-platform/openi_rrd",
+    "peat-rrd": "peat-platform/peat-rrd",
     "underscore": "^1.6.0",
     "validator": ""
   },
