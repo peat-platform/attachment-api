@@ -1,5 +1,5 @@
 {
-  "name": "attachments_api",
+  "name": "attachments-api",
   "description": "Attachment API for the PEAT Cloudlet Platform",
   "version": "0.1.0",
   "homepage": "peat-platform.org",
