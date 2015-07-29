@@ -1,4 +1,4 @@
 # attachment_api
 
-The Attachments handlet for the OPENi platform.
+The Attachments handlet for the PEAT platform.
 
